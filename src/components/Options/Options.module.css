@@ -1,0 +1,25 @@
+.options {
+  margin-bottom: 30px;
+}
+
+button {
+  padding: 7px 30px;
+  margin-right: 30px;
+  border: none;
+  border-radius: 5px;
+  background-color: #a0522d;
+  color: #ffe4c4;
+}
+button:hover {
+  background-color: #d2b48c;
+  color: #a0522d;
+}
+
+.reset {
+  background-color: #dc143c;
+  color: #ffe4c4;
+}
+.reset:hover {
+  background-color: #d2b48c;
+  color: #dc143c;
+}
